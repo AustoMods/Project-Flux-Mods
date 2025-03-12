@@ -1,6 +1,6 @@
 Hey Guys!
 
-Welcome to my Projecy Flux Mods
+Welcome to my Project Flux Mods
 
 Note:
 For Sprint on Default
